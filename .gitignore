@@ -1,0 +1,10 @@
+.vagrant/
+.idea/
+.vscode/
+.DS_Store
+*log
+
+*.swp
+
+vagrant/.vagrant
+vagrant/*.log
